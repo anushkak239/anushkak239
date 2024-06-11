@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anushkak239
+- 👋 Hi, I’m Anushka KOtiyal
 - 👀 I’m interested in Artifical Intelligence, Machine Learing and Data Science
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me anushkakotiyal12@gamil.com
