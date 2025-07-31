@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka Kotiyal
 - 👀 I’m interested in Artifical Intelligence, Machine Learing and Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning NLP
 - 📫 How to reach me anushkakotiyal8@gamil.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am really like reading about Astronomy and Quantum Physics, they fascinates me.
